@@ -1,0 +1,150 @@
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:36:51.783Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:03.119Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:03.471Z'
+}
+{
+  message: 'Test Error: Math.random() < 0.5',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:03.472Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:03.766Z'
+}
+{
+  message: 'Test Error: Math.random() < 0.5',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:03.767Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:04.078Z'
+}
+{
+  message: 'Test Error: Math.random() < 0.5',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:04.078Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:45.613Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:52.429Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:54.787Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:56.664Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:56.840Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:56.978Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:38:24.305Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:38:24.664Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:38:24.870Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:38:25.032Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:38:25.184Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:38:25.329Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:38:25.461Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:38:25.593Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:38:25.728Z'
+}
+{
+  message: 'Test Error: Math.random() < 0.5',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:38:25.729Z'
+}
+{
+  message: 'Test Info: / route was hit',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:38:25.836Z'
+}

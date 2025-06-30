@@ -1,0 +1,24 @@
+{
+  message: 'Test Error: Math.random() < 0.5',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:03.472Z'
+}
+{
+  message: 'Test Error: Math.random() < 0.5',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:03.767Z'
+}
+{
+  message: 'Test Error: Math.random() < 0.5',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:37:04.078Z'
+}
+{
+  message: 'Test Error: Math.random() < 0.5',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2025-06-30T09:38:25.729Z'
+}
